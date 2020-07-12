@@ -14,10 +14,10 @@ export default function App() {
   return (
     <div className="App">
       <Typography className={classes.root} variant="h3" color="secondary">
-        Hello there from 123{" "}
+        Hello World!!!
       </Typography>
       <Button variant="outlined" color="secondary">
-        Hello 123
+        Hello World
       </Button>
     </div>
   );
